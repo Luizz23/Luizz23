@@ -1,6 +1,6 @@
 <div align="center">
 
-# LUIZ FABIANO
+# <span style="color:#6B5B4B;">LUIZ</span> <span style="color:#3D342C;">FABIANO</span>
 
 ### `DATA • TECHNOLOGY • BUSINESS`
 
@@ -8,7 +8,10 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F0E6&height=8&section=header" width="90%">
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=F5F0E6&height=8&section=header"
+width="90%"
+/>
 
 </div>
 
