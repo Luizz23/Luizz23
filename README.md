@@ -1,12 +1,10 @@
 <div align="center">
 
-# <span style="color:#6B5B4B;">LUIZ</span> <span style="color:#3D342C;">FABIANO</span>
+<img 
+src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Luiz%20Fabiano&fontSize=50&fontColor=6B5B4B&fontAlignY=55&desc=DATA%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20BUSINESS&descSize=16&descAlignY=85&descColor=8A7561"
+width="100%"
+/>
 
-### `DATA • TECHNOLOGY • BUSINESS`
-
-**Desenvolvedor & Analista de Dados**
-
-<br>
 
 <img 
 src="https://capsule-render.vercel.app/api?type=rect&color=F5F0E6&height=8&section=header"
@@ -47,7 +45,7 @@ Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, aná
 
 🗄️ **Databases**
 
-🚀 **Innovation**
+🚀 **Business**
 
 </td>
 </tr>
@@ -78,7 +76,7 @@ Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, aná
 | Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="25"> |
 | Kotlin | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="25"> |
 | Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25"> |
-| PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="25"> |
+| Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="25"> |
 | HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25"> |
 | CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25"> |
 | JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25"> |
@@ -97,7 +95,7 @@ Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, aná
 | Neo4j | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="25"> |
 | NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="25"> |
 | Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="25"> |
-
+| R | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="25"> |
 </td>
 </tr>
 
@@ -110,8 +108,7 @@ Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, aná
 | Tecnologia | |
 |:---|:---:|
 | Google Cloud | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25"> |
-| BigQuery | 🔷 |
-| Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="25"> |
+| BigQuery  | <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" width="25"> |
 
 </td>
 
@@ -124,7 +121,6 @@ Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, aná
 | Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25"> |
 | GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25"> |
 | Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25"> |
-| Excel | 📊 |
 
 </td>
 
@@ -177,21 +173,3 @@ Dados e aplicações utilizando tecnologias cloud.
 
 <br>
 
----
-
-## `CURRENTLY`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🎓  Big Data para Negócios                         │
-│                                                      │
-│  📊  Data Analytics                                 │
-│                                                      │
-│  ☁️  Google Cloud / BigQuery                        │
-│                                                      │
-│  💻  Desenvolvimento                                 │
-│                                                      │
-│  🗄️  Banco de Dados                                 │
-│                                                      │
-└──────────────────────────────────────────────────────┘
