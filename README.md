@@ -21,13 +21,19 @@ width="90%"
 
 ## 👋 SOBRE
 
-Tenho 22 anos e sou estudante de **Big Data para Negócios na FATEC Ipiranga**.
 
-Minha trajetória é construída na interseção entre **tecnologia, dados e negócio**.
+Sou estudante de **Big Data para Negócios na FATEC Ipiranga**, com experiência em
+**Análise e Desenvolvimento de Sistemas pela FIAP** e técnico em
+**Informática para Internet**.
 
-Gosto de transformar problemas em soluções utilizando programação, análise de dados e tecnologia.
+Minha trajetória está na interseção entre **dados, tecnologia e negócio**.
 
-Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, análise de dados, cloud e desenvolvimento de aplicações**.
+Atualmente, trabalhando com **SQL, Google Cloud,
+BigQuery e Looker Studio**, apoiando análises, dashboards, indicadores e
+projetos estratégicos.
+
+Tenho interesse em **Data Analytics, Engenharia de Dados, Cloud e desenvolvimento
+de soluções orientadas por dados**.
 
 </td>
 
