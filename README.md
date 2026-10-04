@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e Analista de dados`**
 
-Tenho 21 anos, sou estudante de Big Data para Negócios na FATEC Ipiranga e de Análise e Desenvolvimento de Sistemas na FIAP. 
+Tenho 22 anos, sou estudante de Big Data para Negócios na FATEC Ipiranga. 
 Apaixonado por tecnologia, dados e inovação, busco aplicar meus conhecimentos em projetos práticos. Tenho habilidades em Java, Kotlin, PHP, MySQL, HTML, CSS, Figma e Excel avançado. 
 Estou em constante evolução, sempre aprendendo e desenvolvendo soluções eficientes e criativas.
 
@@ -72,11 +72,12 @@ align="left"
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="GCP" 
+    title="GCP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+    />
 />
 
 <img 
