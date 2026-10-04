@@ -1,178 +1,194 @@
-# 👨🏽‍💻 Luiz Fabiano 📊
+<div align="center">
 
-**`Desenvolvedor e Analista de dados`**
+# LUIZ FABIANO
 
-Tenho 22 anos, sou estudante de Big Data para Negócios na FATEC Ipiranga. 
-Apaixonado por tecnologia, dados e inovação, busco aplicar meus conhecimentos em projetos práticos. Tenho habilidades em Java, Kotlin, PHP, MySQL, HTML, CSS, Figma e Excel avançado. 
-Estou em constante evolução, sempre aprendendo e desenvolvendo soluções eficientes e criativas.
+### `DATA • TECHNOLOGY • BUSINESS`
 
+**Desenvolvedor & Analista de Dados**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F0E6&height=8&section=header" width="90%">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 👋 SOBRE
+
+Tenho 22 anos e sou estudante de **Big Data para Negócios na FATEC Ipiranga**.
+
+Minha trajetória é construída na interseção entre **tecnologia, dados e negócio**.
+
+Gosto de transformar problemas em soluções utilizando programação, análise de dados e tecnologia.
+
+Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, análise de dados, cloud e desenvolvimento de aplicações**.
+
+</td>
+
+<td width="35%" valign="top">
+
+### `PROFILE`
+
+🎓 **Big Data**
+
+📊 **Data Analytics**
+
+💻 **Development**
+
+☁️ **Cloud**
+
+🗄️ **Databases**
+
+🚀 **Innovation**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## `TECH STACK`
 
-<img
-align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
- />
-<img 
-    align="left" 
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
+*Tecnologias que fazem parte da minha jornada.*
 
+</div>
 
-<img 
-    align="left" 
-    alt="PGADMIN" 
-    title="PGADMIN"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-    />
+<br>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img 
-    align="left" 
-    alt="MONGODB" 
-    title="MONGODB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-    />
+### 💻 DEVELOPMENT
 
-<img 
-    align="left" 
-    alt="Neo4J" 
-    title="Neo4J"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" 
-    />
-          
-    
+| Tecnologia | |
+|:---|:---:|
+| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="25"> |
+| Kotlin | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="25"> |
+| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25"> |
+| PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="25"> |
+| HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25"> |
+| CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25"> |
+| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25"> |
 
-    
-<img 
-    align="left" 
-    alt="GCP" 
-    title="GCP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-    />
+</td>
 
+<td width="50%" valign="top">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### 📊 DATA
 
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-    />
-          
+| Tecnologia | |
+|:---|:---:|
+| SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="25"> |
+| PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25"> |
+| MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25"> |
+| Neo4j | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="25"> |
+| NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="25"> |
+| Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="25"> |
 
-<img 
-    align="left" 
-    alt="FIGMA" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-    />
-          
+</td>
+</tr>
 
+<tr>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<td width="50%" valign="top">
 
-<img 
-    align="left" 
-    alt="Numpy" 
-    title="Numpy"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
+### ☁️ CLOUD & DATA
 
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
+| Tecnologia | |
+|:---|:---:|
+| Google Cloud | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25"> |
+| BigQuery | 🔷 |
+| Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="25"> |
 
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-          
+</td>
 
+<td width="50%" valign="top">
 
+### 🛠️ TOOLS
 
-<br/>
-<br/>
+| Ferramenta | |
+|:---|:---:|
+| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25"> |
+| GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25"> |
+| Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25"> |
+| Excel | 📊 |
 
+</td>
 
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## `WHAT I LIKE TO BUILD`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊
+
+**DATA**
+
+Análises, indicadores e soluções orientadas por dados.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️
+
+**SYSTEMS**
+
+Aplicações e sistemas que resolvem problemas reais.
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️
+
+**CLOUD**
+
+Dados e aplicações utilizando tecnologias cloud.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `CURRENTLY`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🎓  Big Data para Negócios                         │
+│                                                      │
+│  📊  Data Analytics                                 │
+│                                                      │
+│  ☁️  Google Cloud / BigQuery                        │
+│                                                      │
+│  💻  Desenvolvimento                                 │
+│                                                      │
+│  🗄️  Banco de Dados                                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
