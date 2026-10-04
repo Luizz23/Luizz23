@@ -39,7 +39,7 @@ de soluções orientadas por dados**.
 
 <td width="35%" valign="top">
 
-### `PROFILE`
+### `PERFIL`
 
 🎓 **Big Data**
 
@@ -139,7 +139,7 @@ de soluções orientadas por dados**.
 
 <div align="center">
 
-## `WHAT I LIKE TO BUILD`
+## `O que eu gosto de construir`
 
 </div>
 
